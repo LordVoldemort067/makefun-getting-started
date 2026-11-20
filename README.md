@@ -470,15 +470,15 @@ It costs the new person nothing extra.
 My referral code is:
 
 ```text
-pq8k5fs6
+ct8ht0a5
 ```
 
 You can use it in any of these forms:
 
-- Bare code: `pq8k5fs6`
-- Referral link: <https://make.fun/r/pq8k5fs6>
-- Query parameter: `?ref=pq8k5fs6` (appended to a make.fun URL, for
-  example `https://make.fun/?ref=pq8k5fs6`)
+- Bare code: `ct8ht0a5`
+- Referral link: <https://make.fun/r/ct8ht0a5>
+- Query parameter: `?ref=ct8ht0a5` (appended to a make.fun URL, for
+  example `https://make.fun/?ref=ct8ht0a5`)
 
 If this guide helped you, signing up with that link is a genuinely
 useful way to say thanks — it supports the person who wrote it, at no
